@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+  <info>
+    <name>Inventoried - Trim</name>
+    <description>A Comprehensive and fully detailed item sorting methodology implemented into Kingdom Come: Deliverance. This mod sorts 100% of all in-game items in your inventory by adding (Tags), and painstakingly renaming every single item for maximum utility and readability. Expanding upon the the original item categories, the result is a clean yet highly-organized naming convention that is both UI-friendly -AND- less burdening than the vanilla experience.</description>
+    <author>S I L E N C E R</author>
+    <version>1.6.3</version>
+    <created_on>13 Nov 2020</created_on>
+    <dependencies>
+      <req_mod>NONE</req_mod>
+    </dependencies>
+  </info>
+  <supports>
+    <kcd_version>1.9.*</kcd_version>
+  </supports>
+</kcd_mod>
